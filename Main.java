@@ -8,7 +8,7 @@ public class Main {
         objCliente.setIdCliente(100);
         objCliente.setNomCliente("Drogbag");
         objCliente.setDirCliente("Impeldown");
-        objCliente.setTelCliente("9876543");
+        objCliente.setTelCliente("3225699546");
         objCliente.setMailClient("talkback@bag.com");
 
         System.out.println("\nDatos del Cliente 1:");
